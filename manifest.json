@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Nem töltöm ki!",
+  "description": "Megakadályozza, hogy a neptun a kérdőívekkel dobálózzon egész vizsgaidőszakban.",
+  "version": "1.0",
+  "icons": { "128": "icon_128.png" },
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_idle",
+      "matches": ["https://neptun11.uni-pannon.hu/hallgato/main.aspx"],
+      "js": ["pe.js"]
+    },
+    {
+      "run_at": "document_idle",
+      "matches": ["https://web2.neptun.u-szeged.hu/hallgato/login.aspx"],
+      "js": ["szte.js"]
+    },
+    {
+      "run_at": "document_idle",
+      "matches": ["https://neptun.elte.hu/Account/Login"],
+      "js": ["elte.js"]
+    }
+  ]
+}
