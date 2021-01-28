@@ -1,9 +1,9 @@
 ## Nem töltöm ki! Neptun kérdőívek
 
-## Unod már, hogy a Neptun folyton a kérdőívekkel traktál?
-### én is utáltam
+ Unod már, hogy a Neptun folyton a kérdőívekkel traktál?
+ én is utáltam
 
-## Itt a megoldás
+### Itt a megoldás
 
 Ez a chrome extention arra jó, hogy a vizsgaidőszakban a _Neptun_
 ne dobálja fel a "Töldtsd ki a kérdőíveket" popup-ot.
