@@ -11,6 +11,11 @@ Eddig támogatott egyetemek:
 
 - Pannon Egyetem
 
-Hogy tudsz segíteni?
-Chrome->_Ctrl+Shift+I_->Jobb egér a nem kívánt elemen->Másolás->JS path
-és githubon új pull reqest.
+
+Telepítés:
+Itt rámész arra hogy kód, ZIP letöltése, kicsomagolod egy tetszőleg mappába.
+Chromban: 
+[chrome://extensions/]
+Developer mode -ot bekacsolod.
+És fent lesz olyan hogy kicsomagolt be tallózása vagy valami ilyesmi. (Load unpacked)
+Mappakiválasztóban kitallózod a mappád és kész vagy.
