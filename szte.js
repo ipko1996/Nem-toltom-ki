@@ -6,3 +6,5 @@ let button = document.querySelector(
 if (typeof button != "undefined" && button != null) {
   button.click();
 }
+
+//ez csak egy helytartó kód most
