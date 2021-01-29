@@ -21,3 +21,8 @@ Chromban:
  2. És fent lesz olyan hogy kicsomagolt be tallózása vagy valami
     ilyesmi. (Load unpacked)
  3. Mappakiválasztóban kitallózod a mappát (bekapcs, ha automatikusan nem kapcsolja be) és kész vagy.
+
+
+**Ismert hibák:**
+ 1. A pop-ubban van a **fizetési felszóítás** is, szóval azt is ki fogja ikszelni!
+    Tehát azt sem fogod látni ha van!
