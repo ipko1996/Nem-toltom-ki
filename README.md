@@ -24,5 +24,5 @@ Chromban:
 
 
 **Ismert hibák:**
- 1. A pop-ubban van a **fizetési felszóítás** is, szóval azt is ki fogja ikszelni!
+  - A pop-ubban van a **fizetési felszóítás** is, szóval azt is ki fogja ikszelni!
     Tehát azt sem fogod látni ha van!
